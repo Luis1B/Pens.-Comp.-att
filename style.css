@@ -1,10 +1,42 @@
+
 h1{
+text-align: center;
+}
+
+
+h2{
+  text-align: center;
+  color: darkred;
+  
+}
+
+h3{
+  font-size: 19px;
+}
+
+h4{
+  font-size: 15px;
+}
+
+h6{
   text-align: center;
 }
 
-body { background-color: rgba(224, 255, 255);
+
+body { 
+  background-color: lightgray;
+  
 }
 
 p{
   text-align: center;
 }
+
+.img1934{
+  display: inline-block
+}
+
+.copa1950{
+  display: inline-block
+}
+
