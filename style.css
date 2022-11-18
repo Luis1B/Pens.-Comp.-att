@@ -20,15 +20,17 @@ h2{
 
 h3{
   font-size: 19px;
+  text-align: center;
 }
 
 h4{
-  font-size: 15px;
+  font-size: 18px;
 }
 
 h6{
   text-align: center;
 }
+
 
 
 body { 
@@ -41,7 +43,7 @@ body {
   
 }
 
-p{
+.texto{
   text-align: center;
 }
 
@@ -53,9 +55,7 @@ p{
   margin-left: 100px;
 }
 
-.copa1934{
 
-}
 
 .copa1938{
 
@@ -77,3 +77,10 @@ p{
   display: inline-block;
   margin-right: 100px;
 }
+
+.copa58{
+
+  display: inline-flex;
+  margin-left: 500px;
+}
+
