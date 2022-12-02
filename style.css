@@ -66,7 +66,7 @@ body {
 
 
 .copa1950{
-  display: inline-block;
+  display: block;
   margin-left: 100px;
 
 }
@@ -74,13 +74,100 @@ body {
 
 .copa1954{
 
-  display: inline-block;
-  margin-right: 100px;
+  display: block;
+  margin-right: 200px;
 }
 
 .copa58{
 
-  display: inline-flex;
-  margin-left: 350px;
+  display: block;
+  margin-right: 200px;
 }
 
+.borda{
+  border: 5px solid black;
+}
+
+.thome{
+  display: inline-block;
+  position: absolute;
+  font-size: 25px;
+  margin-top: -250px;
+  margin-left: 50px;
+}
+
+.thome:hover{
+  background-color: gold;
+}
+
+.t30{
+  display: inline-block;
+  position: absolute;
+  font-size: 25px;
+  margin-top: -200px;
+  margin-left: -300px;
+}
+
+.t30:hover{
+  background-color: gold;
+}
+
+.t34{
+  display: inline-block;
+  position: absolute;
+  font-size: 25px;
+  margin-top: -200px;
+  margin-left: 300px;
+}
+
+.t34:hover{
+  background-color: gold;
+}
+
+.t38{
+  display: inline-block;
+  position: absolute;
+  font-size: 25px;
+  margin-top: -150px;
+  margin-left: -300px;
+}
+
+.t38:hover{
+  background-color: greenyellow;
+}
+
+.t50{
+  display: inline-block;
+  position: absolute;
+  font-size: 25px;
+  margin-top: -150px;
+  margin-left: 300px;
+}
+
+.t50:hover{
+  background-color: greenyellow;
+}
+
+.t54{
+  display: inline-block;
+  position: absolute;
+  font-size: 25px;
+  margin-top: -100px;
+  margin-left: -300px;
+}
+
+.t54:hover{
+  background-color: gold;
+}
+
+.t58{
+  display: inline-block;
+  position: absolute;
+  font-size: 25px;
+  margin-top: -100px;
+  margin-left: 300px;
+}
+
+.t58:hover{
+  background-color: gold;
+}
