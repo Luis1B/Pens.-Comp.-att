@@ -2,6 +2,7 @@
 header{
 
  background-color: rgb(111, 164, 167);
+ border-radius: 50px;
 }
 
 
@@ -76,12 +77,16 @@ body {
 
   display: block;
   margin-right: 200px;
+ 
 }
 
 .copa58{
 
   display: block;
-  margin-right: 200px;
+  margin-left: 350px;
+  margin-right: -350px;
+  border: 5px solid black ;
+
 }
 
 .borda{
